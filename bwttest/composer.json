@@ -1,0 +1,22 @@
+{
+     "name": "jd/guzzle demo",
+
+     "authors": [
+
+         {
+
+             "name": "John Doe",
+
+             "email": "john@doe.tst"
+
+         }
+
+     ],
+
+     "require": {
+        "sunra/php-simple-html-dom-parser": "v1.5.0",
+        "guzzlehttp/guzzle": "~6.0",
+          "larapack/dd": "1.*"
+      }
+
+ }
